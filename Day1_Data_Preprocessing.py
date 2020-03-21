@@ -1,7 +1,7 @@
 # Loading Dataset
 import numpy as np
 import pandas as pd
-dataset = pd.read_csv('/content/drive/My Drive/Data.csv',error_bad_lines=False)
+dataset = pd.read_csv('Data.csv',error_bad_lines=False)
 X = dataset.iloc[ : , :-1].values
 Y = dataset.iloc[ : , 3].values
 
