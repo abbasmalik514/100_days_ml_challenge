@@ -6,18 +6,18 @@ Day 17/100!
 
 Week 1
 
-o Introduction to deep learning
-o Supervised Learning with Nural Networks
-o Why is Deep Learning is taking off!
+* Introduction to deep learning
+* Supervised Learning with Nural Networks
+* Why is Deep Learning is taking off!
 
 Week 2
 
-o Binary Classification
-o Logistic Regression
-o Logistic Cost Function
-o Derivatives
-o Computation Graph
-o Logistic Regression
-o Gradient Descent
+* Binary Classification
+* Logistic Regression
+* Logistic Cost Function
+* Derivatives
+* Computation Graph
+* Logistic Regression
+* Gradient Descent
 
 2. Started SQL for the DataScience course from Coursera and completed week 1.
