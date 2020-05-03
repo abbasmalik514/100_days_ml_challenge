@@ -19,5 +19,6 @@ Week 2
 * Computation Graph
 * Logistic Regression
 * Gradient Descent
+* Vectorization
 
 2. Started SQL for the DataScience course from Coursera and completed week 1.
